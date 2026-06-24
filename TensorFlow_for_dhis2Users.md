@@ -148,8 +148,8 @@ Where
 
 ```
 [
-Malaria Cases,
-HIV Tests
+ Malaria Cases,
+ HIV Tests
 ]
 ```
 
@@ -163,7 +163,6 @@ Now imagine multiple clinics.
 
 ```
 Clinic A
-
 [
  [120,35],
  [132,40],
@@ -171,7 +170,6 @@ Clinic A
 ]
 
 Clinic B
-
 [
  [45,20],
  [51,18],
